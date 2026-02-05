@@ -1,0 +1,907 @@
+{
+  "data/raw\\video10_1070_jpg.rf.dc513b23eab6cab4a6ca1dac8894b27b.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          201,
+          262,
+          356,
+          301
+        ],
+        "confidence": 0.7642227411270142,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video10_1250_jpg.rf.78e44f9bb4e03b14f081b3e84313caf8.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          675,
+          686,
+          1062,
+          777
+        ],
+        "confidence": 0.7996084094047546,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video10_1270_jpg.rf.35ce44d5ae46b8f6c9b3fbc37f6e4e1e.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          572,
+          523,
+          966,
+          619
+        ],
+        "confidence": 0.8059417009353638,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video10_140_jpg.rf.018de137aada26915243a26a1f369bc6.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          193,
+          306,
+          322,
+          339
+        ],
+        "confidence": 0.8174092173576355,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video10_1420_jpg.rf.8e2f6d49ac9287a7a68487906aca7df9.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          101,
+          499,
+          339,
+          573
+        ],
+        "confidence": 0.8080503344535828,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video10_1710_jpg.rf.6b86a52b12a313a9c97cb8ead09b7a5d.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          50,
+          208,
+          911,
+          413
+        ],
+        "confidence": 0.7797781229019165,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video10_850_jpg.rf.e7ef42577bf443eba824e2282c7829b7.jpg": {
+    "plate_count": 2,
+    "detections": [
+      {
+        "bbox": [
+          245,
+          405,
+          389,
+          447
+        ],
+        "confidence": 0.7923716902732849,
+        "class_id": 0
+      },
+      {
+        "bbox": [
+          117,
+          4,
+          254,
+          35
+        ],
+        "confidence": 0.32430118322372437,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_1030_jpg.rf.347f2bdbffa861592a4bd3476cdfbb2a.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          282,
+          591,
+          652,
+          691
+        ],
+        "confidence": 0.8309682607650757,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_1110_jpg.rf.d7b4a29a59ab20d3a0fec911659f19c8.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          313,
+          506,
+          681,
+          605
+        ],
+        "confidence": 0.827145516872406,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_1120_jpg.rf.8ecf1f28be3f54405881195eb6072e26.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          389,
+          554,
+          766,
+          657
+        ],
+        "confidence": 0.8360301852226257,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_1140_jpg.rf.fc8155ca99e783274664557f51bc9856.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          274,
+          502,
+          647,
+          603
+        ],
+        "confidence": 0.8342311382293701,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_1630_jpg.rf.50eb534b38866916eb83e2a81ea9663e.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          148,
+          300,
+          276,
+          337
+        ],
+        "confidence": 0.7969978451728821,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_210_jpg.rf.10391b77c6664dee9cc228f4ab1ef0bf.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          321,
+          429,
+          560,
+          483
+        ],
+        "confidence": 0.8112273812294006,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_2210_jpg.rf.b47b7d200268d4d44b63898509e57e1e.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          984,
+          141,
+          1222,
+          271
+        ],
+        "confidence": 0.7969322204589844,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_3260_jpg.rf.050473da14d7f64b187d99a11a42fede.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          180,
+          220,
+          330,
+          264
+        ],
+        "confidence": 0.7910662889480591,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_4440_jpg.rf.8213fbb43ada50abd796761eecc64eb6.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          256,
+          497,
+          416,
+          545
+        ],
+        "confidence": 0.8287661075592041,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video11_4800_jpg.rf.91213d1f6418a9029ab58a433ef13244.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          335,
+          485,
+          605,
+          567
+        ],
+        "confidence": 0.7959281206130981,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_1830_jpg.rf.fa7cffdebce03fd2f656f2eb1c622fff.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          348,
+          659,
+          784,
+          769
+        ],
+        "confidence": 0.8240251541137695,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_230_jpg.rf.115438e18f9307a52df9006f982d3a1f.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          240,
+          237,
+          417,
+          290
+        ],
+        "confidence": 0.8226035833358765,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_3370_jpg.rf.bc81d910eadd16d5fc623dd06e9a0e63.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          610,
+          369,
+          814,
+          431
+        ],
+        "confidence": 0.8039518594741821,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_3600_jpg.rf.3cc9d0f6135e6f1021d9ea6c81362d74.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          376,
+          249,
+          773,
+          367
+        ],
+        "confidence": 0.8340060710906982,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_3750_jpg.rf.007514447f713853256945f96cf020c5.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          302,
+          658,
+          647,
+          762
+        ],
+        "confidence": 0.8058022260665894,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_4400_jpg.rf.a982905d74f7d7f743158ab6c539b216.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          210,
+          338,
+          397,
+          392
+        ],
+        "confidence": 0.8378066420555115,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video2_480_jpg.rf.567f4936d8e5cbd0bbb8ea7ee12d10ce.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          321,
+          482,
+          803,
+          657
+        ],
+        "confidence": 0.8184800744056702,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_1210_jpg.rf.fb3a7585a4fa2e7366872045453a271e.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          172,
+          478,
+          317,
+          523
+        ],
+        "confidence": 0.7986165881156921,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_1370_jpg.rf.11fc4c8c97d28998b91e81b863e37147.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          62,
+          439,
+          122,
+          454
+        ],
+        "confidence": 0.8110326528549194,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_1460_jpg.rf.b3303d0fd79d05e258b065e69b99a9b9.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          180,
+          415,
+          380,
+          469
+        ],
+        "confidence": 0.8068857192993164,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_1650_jpg.rf.64770e185c1ea052a2b1385aa5084581.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          162,
+          494,
+          337,
+          551
+        ],
+        "confidence": 0.7883173823356628,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_1780_jpg.rf.e371b320b403c5cd229ccda3a8896f02.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          315,
+          465,
+          629,
+          566
+        ],
+        "confidence": 0.8124698996543884,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_1800_jpg.rf.2a3fe8610901c20a9e50e8fc1dc923b7.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          186,
+          473,
+          353,
+          524
+        ],
+        "confidence": 0.7951360940933228,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_2250_jpg.rf.4feed00918c8606f6c7b5372c50a7990.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          128,
+          505,
+          268,
+          543
+        ],
+        "confidence": 0.8175409436225891,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_440_jpg.rf.33b9d3c7e02a340a5011c181c133e95e.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          4,
+          421,
+          171,
+          479
+        ],
+        "confidence": 0.7664331793785095,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video3_470_jpg.rf.5884fe5414e0a3526c3333c2d60918e1.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          174,
+          492,
+          328,
+          536
+        ],
+        "confidence": 0.7837913036346436,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_2170_jpg.rf.84096917c35cace0a568a0694889ed9f.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          171,
+          474,
+          406,
+          587
+        ],
+        "confidence": 0.8209607601165771,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_2500_jpg.rf.d498fcd678ac04de695757a6c3912d90.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          200,
+          298,
+          583,
+          443
+        ],
+        "confidence": 0.7850090861320496,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_2630_jpg.rf.d00ec587cdde5b9ed652ed8eec5fb8c2.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          41,
+          224,
+          249,
+          385
+        ],
+        "confidence": 0.7872913479804993,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_2660_jpg.rf.3ef53ae0bf4f7623ac0ee1b57ddfcf8c.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          203,
+          595,
+          422,
+          673
+        ],
+        "confidence": 0.820953905582428,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_2780_jpg.rf.a40ea3e394d0d7bdc110757f72b68233.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          95,
+          387,
+          344,
+          485
+        ],
+        "confidence": 0.7950448393821716,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_2830_jpg.rf.d28b3a5865902844e8fe3d85a3261ae8.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          282,
+          485,
+          525,
+          581
+        ],
+        "confidence": 0.8155340552330017,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_3720_jpg.rf.34a66fa9dbf05481d49af85ce6114dca.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          91,
+          445,
+          760,
+          700
+        ],
+        "confidence": 0.7898885607719421,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video4_3770_jpg.rf.ba44d03bfe9a1b64e7237ca58c0c59ff.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          237,
+          335,
+          430,
+          387
+        ],
+        "confidence": 0.7809827923774719,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video5_160_jpg.rf.3e69c4eb929d4804e088d571224371e6.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          170,
+          446,
+          552,
+          530
+        ],
+        "confidence": 0.8319554924964905,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video5_180_jpg.rf.cabeb68071a199c1222bc61be897ddd2.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          119,
+          502,
+          498,
+          587
+        ],
+        "confidence": 0.8154091238975525,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video5_1840_jpg.rf.d55c9441b8bbe5b793dc6f9ac57a3d00.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          493,
+          182,
+          876,
+          273
+        ],
+        "confidence": 0.8206048607826233,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video5_350_jpg.rf.2a3730630d32ef78e247e1457a663174.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          253,
+          629,
+          888,
+          771
+        ],
+        "confidence": 0.7271065711975098,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video5_360_jpg.rf.73817f95b6a831b3e63cdb584d1973d6.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          159,
+          621,
+          803,
+          768
+        ],
+        "confidence": 0.7215412855148315,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video5_380_jpg.rf.0603291d11316e05fd28f48a908d2d1a.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          74,
+          596,
+          700,
+          753
+        ],
+        "confidence": 0.7229930758476257,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video6_1000_jpg.rf.eac904f11d051b60d6483ccf7a79035d.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          606,
+          282,
+          1223,
+          442
+        ],
+        "confidence": 0.8222473859786987,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video6_1040_jpg.rf.8af4e79f5690d1319cd1d5a079a0a0d2.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          177,
+          314,
+          847,
+          497
+        ],
+        "confidence": 0.8059068918228149,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video6_1130_jpg.rf.d439d4a796cb7409c472de5dc5aee4fc.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          850,
+          339,
+          1205,
+          425
+        ],
+        "confidence": 0.7996810674667358,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video6_830_jpg.rf.1a706998a3da92ee21c32cca643a0f10.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          813,
+          333,
+          1505,
+          500
+        ],
+        "confidence": 0.8263567686080933,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video8_0_jpg.rf.8618ebf8355acf7d89268e08390be92b.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          82,
+          406,
+          184,
+          448
+        ],
+        "confidence": 0.7902463674545288,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video8_1120_jpg.rf.5278b235be0514ed1aa71afd71e8b180.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          157,
+          462,
+          403,
+          516
+        ],
+        "confidence": 0.8120094537734985,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video8_130_jpg.rf.5fe9b50d075b15691281b1c05e9e00b2.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          72,
+          395,
+          157,
+          425
+        ],
+        "confidence": 0.7962015271186829,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video8_1370_jpg.rf.6699e6229b5955fa02be9b736c2733b2.jpg": {
+    "plate_count": 2,
+    "detections": [
+      {
+        "bbox": [
+          128,
+          361,
+          261,
+          414
+        ],
+        "confidence": 0.7991922497749329,
+        "class_id": 0
+      },
+      {
+        "bbox": [
+          0,
+          839,
+          608,
+          1010
+        ],
+        "confidence": 0.2522599995136261,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video8_960_jpg.rf.c618552cfc1c93d37fcdb1523609d0c1.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          101,
+          382,
+          212,
+          417
+        ],
+        "confidence": 0.7822048664093018,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video8_970_jpg.rf.792a273171c6eecba70454041754206c.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          109,
+          415,
+          228,
+          460
+        ],
+        "confidence": 0.7868729829788208,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video9_140_jpg.rf.ff83f496065ca9149f2b537ef600c74f.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          864,
+          256,
+          1106,
+          318
+        ],
+        "confidence": 0.7948955297470093,
+        "class_id": 0
+      }
+    ]
+  },
+  "data/raw\\video9_40_jpg.rf.3af772de2b4632fdce2f9c5b80e4154e.jpg": {
+    "plate_count": 1,
+    "detections": [
+      {
+        "bbox": [
+          1042,
+          336,
+          1663,
+          479
+        ],
+        "confidence": 0.8159372806549072,
+        "class_id": 0
+      }
+    ]
+  }
+}

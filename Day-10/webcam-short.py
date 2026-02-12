@@ -1,0 +1,10 @@
+from ultralytics import YOLO
+
+model = YOLO("best-robo.pt")
+
+model.predict(
+    source=0,
+    show=True,
+    conf=0.4,
+    imgsz=640
+)

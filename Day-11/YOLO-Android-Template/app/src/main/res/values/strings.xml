@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoadEye AI</string>
+    <string name="gpu">GPU</string>
+</resources>

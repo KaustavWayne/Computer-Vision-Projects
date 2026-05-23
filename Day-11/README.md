@@ -12,7 +12,7 @@ https://github.com/surendramaran/YOLO/tree/main/YOLOv8-Object-Detector-Android-T
 
 ---
 
-# YOLOv8 Live Object Detection Android Application
+# YOLOv8 Live Object Detection Android Application - Using Android-Studio Software
 
 ## Description
 

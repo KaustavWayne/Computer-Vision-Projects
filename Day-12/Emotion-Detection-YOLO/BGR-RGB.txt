@@ -1,0 +1,103 @@
+can you tell me which one natively use opencv use bgr default so we have to convert rgb? but matplot lib has no issues
+
+Exactly — this is the key difference between OpenCV and Matplotlib.
+
+OpenCV Natively Uses BGR
+
+When you read image using:
+
+img = cv2.imread("image.jpg")
+
+OpenCV stores image as:
+
+BGR
+
+NOT RGB.
+
+Example
+
+Real red color in RGB:
+
+[255, 0, 0]
+
+But OpenCV interprets as:
+
+Blue
+
+because OpenCV order is:
+
+[B, G, R]
+That Is Why Matplotlib Shows Wrong Colors
+
+Matplotlib expects:
+
+RGB
+
+So if you directly do:
+
+plt.imshow(img)
+
+using OpenCV image:
+
+colors become weird.
+
+Example:
+
+red becomes blue
+blue becomes red
+Therefore We Convert
+img = cv2.cvtColor(
+    img,
+    cv2.COLOR_BGR2RGB
+)
+
+before:
+
+plt.imshow(img)
+Why No Issues In Your Webcam Emotion Pipeline?
+
+Because:
+
+OpenCV reads webcam in BGR
+OpenCV displays using cv2.imshow()
+OpenCV drawing functions also use BGR
+
+Everything stays inside OpenCV ecosystem.
+
+So:
+
+BGR → BGR
+
+No mismatch.
+
+Matplotlib Problem Happens Because
+
+Pipeline becomes:
+
+OpenCV (BGR)
+      ↓
+Matplotlib (expects RGB)
+
+Mismatch occurs.
+
+Summary
+Library	Native Format
+OpenCV	BGR
+Matplotlib	RGB
+PIL	RGB
+YOLO/Ultralytics internally	RGB tensors usually
+In Your Webcam Code
+
+This is fine:
+
+cv2.imshow(frame)
+
+No conversion needed.
+
+But For Matplotlib
+
+Need:
+
+cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+
+before plotting.

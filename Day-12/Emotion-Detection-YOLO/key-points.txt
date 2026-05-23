@@ -1,0 +1,89 @@
+OpenCV and Matplotlib use different default color formats.
+
+OpenCV natively uses BGR format, not RGB.
+
+When you read an image using:
+
+img = cv2.imread("image.jpg")
+
+the image is stored internally as:
+
+BGR
+
+instead of:
+
+RGB
+
+For example, a real red color in RGB format is:
+
+[255, 0, 0]
+
+But OpenCV interprets channel order as:
+
+[B, G, R]
+
+So:
+
+[255, 0, 0]
+
+becomes blue in OpenCV.
+
+That is why colors look incorrect when displaying OpenCV images directly using Matplotlib.
+
+Matplotlib expects images in RGB format.
+
+If you directly do:
+
+plt.imshow(img)
+
+using an OpenCV image, colors become swapped:
+
+red appears blue
+blue appears red
+
+To fix this, convert the image before plotting:
+
+img = cv2.cvtColor(
+    img,
+    cv2.COLOR_BGR2RGB
+)
+
+plt.imshow(img)
+
+In your webcam emotion detection pipeline, there is no issue because everything stays inside OpenCV.
+
+The workflow is:
+
+OpenCV Webcam → BGR
+OpenCV Drawing → BGR
+cv2.imshow() → BGR
+
+So there is no color mismatch.
+
+The mismatch only happens when the pipeline becomes:
+
+OpenCV (BGR)
+      ↓
+Matplotlib (expects RGB)
+
+Summary:
+
+Library	Native Format
+OpenCV	BGR
+Matplotlib	RGB
+PIL	RGB
+YOLO / Ultralytics internally	Usually RGB tensors
+
+So in webcam applications:
+
+cv2.imshow(frame)
+
+works perfectly without conversion.
+
+But for Matplotlib visualization, you should convert first:
+
+cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+
+before:
+
+plt.imshow(img)

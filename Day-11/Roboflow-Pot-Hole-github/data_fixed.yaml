@@ -1,0 +1,9 @@
+names:
+- Drain Hole
+- Pothole
+- Sewer Cover
+nc: 3
+path: /content/Pothole-Detection
+test: test/images
+train: train/images
+val: valid/images

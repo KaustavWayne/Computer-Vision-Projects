@@ -201,7 +201,7 @@ Foreground Layer
 
 Click folder icon.
 
-Choose your PNG logo.
+Choose your PNG logo from Path below.
 
 ---
 

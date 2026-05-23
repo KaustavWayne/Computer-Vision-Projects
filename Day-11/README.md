@@ -257,7 +257,19 @@ Android Studio installs app directly to your phone.
 
 ---
 
-# STEP 8 — GENERATE APK
+# STEP 8 — XML ERROR FIX (IMPORTANT)
+
+If you get this Android Studio XML error:
+
+```text
+The processing instruction target matching "[xX][mM][lL]" is not allowed.
+```
+
+[Click Here For Complete XML Fix Guide](https://github.com/KaustavWayne/Computer-Vision-Projects/blob/main/Day-11/XML-Issue.md)
+
+---
+
+# STEP 9 — GENERATE APK
 
 Go to:
 
@@ -276,7 +288,7 @@ Create new...
 
 ---
 
-# STEP 9 — CREATE KEYSTORE
+# STEP 10 — CREATE KEYSTORE
 
 Example values:
 

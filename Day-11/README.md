@@ -326,6 +326,10 @@ RoadEye-AI.apk
 
 ---
 
+# To Make Different Apps without getting replaced Try README.md-2
+
+---
+
 # TEMPLATE WORKFLOW FOR FUTURE PROJECTS
 
 After creating first app:

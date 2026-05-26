@@ -28,7 +28,7 @@ To create a new project (like Pothole Detection) from your template, follow thes
 Since you have already unchecked:
 
 ```text
-Compact Middle Packages
+Click Project- three dot , Appearance and unchecked the Compact Middle Packages
 ```
 
 the process becomes much easier.
